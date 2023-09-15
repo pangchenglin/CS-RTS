@@ -1,2 +1,2 @@
-# CS-RTS
+# S-RTS
 This code will be released soon.
