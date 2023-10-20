@@ -1,2 +1,2 @@
 # S-RTS
-This code will be released soon.
+This code will be released after received.
